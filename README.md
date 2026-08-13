@@ -86,14 +86,13 @@ Currently, I'm strengthening my skills in **TypeScript, Node.js, Express.js, Nex
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vibhav4518&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhav4518&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vibhav4518&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Vibhav's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhav4518&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vibhav4518&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 🤝 Let's Connect
