@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  Full-Stack Developer • Backend Enthusiast • B.Tech CSE
+  Full-Stack Developer • Tech Enthusiast • B.Tech CSE
 </h3>
 
 <p align="center">
@@ -51,19 +51,23 @@
 
 🎓 B.Tech student in **Computer Science & Engineering**
 
-💻 Interested in **Full-Stack Development & Backend Engineering**
+💻 Interested in **Full-Stack Development**
 
-⚙️ Building backend applications using **Node.js, Express & TypeScript**
+🌱 Currently improving **TypeScript, Node.js, Express & PostgreSQL**
 
 🗄️ Working with **PostgreSQL, Prisma and REST APIs**
 
-🐍 Experienced with **Python, Django and Flask**
+🐍 Experienced with **Python, Django, SQLite, SQL**
 
 🧪 Learning better **testing, clean architecture and software engineering practices**
 
 🤖 Exploring **Artificial Intelligence & Machine Learning**
 
 🚀 Always interested in building practical software and learning new technologies
+
+🏆 Hackathon participant and finalist
+
+🤝 Open to collaboration, internships & software development opportunities
 
 ---
 
