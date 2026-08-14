@@ -1,303 +1,308 @@
-# Hi there, I'm Vibhav Srivastava 👋
+<!-- ========================================================= -->
+<!--                     PROFILE HEADER                        -->
+<!-- ========================================================= -->
 
-💻 **Full-Stack Developer** | 🚀 **Backend Developer** | 🌱 **Continuous Learner**
+<h1 align="center">
+  Hi 👋, I'm Vibhav Srivastava
+</h1>
 
-I'm a Computer Science developer passionate about building **modern web applications, scalable backend systems, and real-world software projects**.
-
-Currently, I'm strengthening my skills in **TypeScript, Node.js, Express.js, Next.js, PostgreSQL, Prisma, and System Design** while building a full-stack **Hiring Platform**.
-
----
-
-## 🚀 About Me# Hi there, I'm Vibhav Srivastava 👋
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&width=435&lines=Full-Stack+Developer;Backend+Developer;Continuous+Learner" alt="Typing SVG" />
-</p>
-
-I'm a Computer Science developer passionate about building **modern web applications, scalable backend systems, and real-world software projects**.
-
-Currently, I'm strengthening my skills in **TypeScript, Node.js, Express.js, Next.js, PostgreSQL, Prisma, and System Design** while building a full-stack **Hiring Platform**.
-
----
-
-### 🚀 About Me
-
-- 🔭 **Currently Working On:** A full-stack [Hiring Platform](https://github.com/Vibhav4518)
-- 💻 **Backend Focus:** Building robust APIs using **Node.js, Express.js & TypeScript**
-- 🗄️ **Database Tech:** Working with **PostgreSQL, Prisma ORM & pgAdmin**
-- 🌱 **Learning & Growing:** TypeScript, Backend Architecture & System Design
-- 🐍 **Other Tech:** Experienced with **Python & Django**
-- ⚛️ **Exploring:** Next.js & modern full-stack development
-- 🧠 **Interests:** AI, Machine Learning & Backend Engineering
-- 🎯 **Goal:** Become a skilled **Software Engineer / Full-Stack Developer**
-- 🤝 **Open to:** Collaborating on interesting **Web & AI projects**
-
----
-
-### 🛠️ Tech Stack
-
-#### 👨‍💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-#### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-#### ⚙️ Backend & Database
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white)
-
-#### 🧰 Tools & Utilities
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-#### 💼 Hiring Platform
-> A modern full-stack **Job Portal / Hiring Platform** designed using a layered modular backend architecture.
-
-- **Stack:** `TypeScript` • `Node.js` • `Express.js` • `PostgreSQL` • `Prisma` • `Zod` • `Next.js`
-- **Key Features:**
-  - 🔐 Authentication & Session Management (Refresh Tokens)
-  - 👤 Candidate & Employer Profiles + Company Management
-  - 💼 Job Posting, Skills Management & Job Applications
-  - 🔑 Role-Based Access Control (RBAC) & Resume Management
-
-**Backend Architecture:**
-`Controller` ➔ `Service` ➔ `Repository` ➔ `Prisma / PostgreSQL`
-
----
-
-### 📊 GitHub Analytics
+<h3 align="center">
+  Full-Stack Developer • Backend Enthusiast • B.Tech CSE
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vibhav4518&theme=tokyonight" alt="GitHub Streak" />
+  Building scalable web applications, REST APIs and modern backend systems.
 </p>
----
 
-### 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://github.com/Vibhav4518">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://vibhav4518.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:vibhavsrivastav355@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<br>
 
 <p align="center">
-  <i>"Keep learning, keep building, and turn ideas into real-world solutions."</i>
+
+<a href="https://vibhav-portfolio04.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
+
+<a href="https://github.com/Vibhav4518">
+  <img
+    src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<a href="mailto:vibhavsrivastav355@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
 </p>
 
-* 🔭 Currently working on a **Full-Stack Hiring Platform**
-* 💻 Building backend APIs using **Node.js, Express.js & TypeScript**
-* 🗄️ Working with **PostgreSQL, Prisma ORM & pgAdmin**
-* 🌱 Learning **TypeScript, Backend Architecture & System Design**
-* 🐍 Experienced with **Python & Django**
-* ⚛️ Exploring **Next.js & modern full-stack development**
-* 🧠 Interested in **AI, Machine Learning & Backend Engineering**
-* 🎯 Goal: Become a skilled **Software Engineer / Full-Stack Developer**
-* 🤝 Open to collaborating on interesting **Web & AI projects**
+---
+
+<!-- ========================================================= -->
+<!--                        ABOUT ME                           -->
+<!-- ========================================================= -->
+
+## 👨‍💻 About Me
+
+🎓 B.Tech student in **Computer Science & Engineering**
+
+💻 Interested in **Full-Stack Development & Backend Engineering**
+
+⚙️ Building backend applications using **Node.js, Express & TypeScript**
+
+🗄️ Working with **PostgreSQL, Prisma and REST APIs**
+
+🐍 Experienced with **Python, Django and Flask**
+
+🧪 Learning better **testing, clean architecture and software engineering practices**
+
+🤖 Exploring **Artificial Intelligence & Machine Learning**
+
+🚀 Always interested in building practical software and learning new technologies
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ========================================================= -->
+<!--                       TECH STACK                          -->
+<!-- ========================================================= -->
 
-### 👨‍💻 Programming Languages
+👨‍💻 Languages
 
-`JavaScript` • `TypeScript` • `Python` • `Java` • `C++` • `C`
+<p> <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" /> </p>
 
-### 🎨 Frontend
+🎨 Frontend
 
-`HTML5` • `CSS3` • `JavaScript` • `Bootstrap` • `Tailwind CSS` • `Next.js`
+<p> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" /> </p>
 
-### ⚙️ Backend
+⚙️ Backend
 
-`Node.js` • `Express.js` • `Django` • `REST APIs`
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" /> </p>
 
-### 🗄️ Database & ORM
+🗄️ Database & ORM
 
-`PostgreSQL` • `Prisma ORM` • `pgAdmin`
+<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma" /> </p>
 
-### 🧰 Tools & Technologies
+🔧 Tools & Platforms
 
-`Git` • `GitHub` • `VS Code` • `Thunder Client` • `Zod` • `Postman`
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" /> </p>
 
 ---
+
+<!-- ========================================================= -->
+<!--                    FEATURED PROJECTS                      -->
+<!-- ========================================================= -->
 
 ## 🚀 Featured Projects
 
-### 💼 Hiring Platform
+### 🛒 Velora — E-Commerce Platform
 
-A modern full-stack **Job Portal / Hiring Platform** designed using a layered modular backend architecture.
+A full-stack e-commerce application designed to provide a complete online
+shopping experience with product management, cart, wishlist, orders and
+user management.
 
-**Technologies:**
+**Tech Stack**
 
-`TypeScript` • `Node.js` • `Express.js` • `PostgreSQL` • `Prisma` • `Zod` • `Next.js`
+<img src="https://skillicons.dev/icons?i=python,django,postgres,html,css,js" height="35"/>
 
-**Major Features:**
+<br>
 
-* 🔐 Authentication & Authorization
-* 👤 Candidate Profiles
-* 🏢 Company Management
-* 👨‍💼 Employer Profiles
-* 💼 Job Management
-* 📄 Job Applications
-* 🛠️ Skills Management
-* 🔑 Role-Based Access Control
-* 📑 Resume Management
-* 🔄 Refresh Token Sessions
+<a href="https://github.com/Vibhav4518/Velora">
+  <img
+    src="https://img.shields.io/badge/View%20Repository-24292F?style=for-the-badge&logo=github&logoColor=white"
+  />
+</a>
 
-Backend architecture:
+<a href="https://velora-22r9.onrender.com/">
+  <img
+    src="https://img.shields.io/badge/Live%20Demo-0969DA?style=for-the-badge&logo=render&logoColor=white"
+  />
+</a>
 
-```text
-Controller
-    ↓
-Service
-    ↓
-Repository
-    ↓
-Prisma / PostgreSQL
-```
+<br><br>
 
 ---
 
-### 🎓 Vision
+### 💼 Job Portal Backend
 
-A responsive **Learning Management System (LMS)** designed to provide an easy-to-use learning experience.
+A modular backend API for a hiring platform designed using a layered
+architecture with authentication, candidate profiles, companies and
+skills management.
 
-**Tech:** `HTML` • `CSS` • `JavaScript` • `Bootstrap`
+**Tech Stack**
 
----
+<img src="https://skillicons.dev/icons?i=ts,nodejs,express,postgres,prisma" height="35"/>
 
-### 🛒 V Shopping
+<br>
 
-A full-stack **E-Commerce application** featuring product management, shopping cart functionality, orders, authentication, and an admin dashboard.
+#### ✨ Features
 
-**Tech:** `Python` • `Django` • `Bootstrap` • `JavaScript`
+- 🔐 Authentication & authorization
+- 👤 User management
+- 🧑‍💼 Candidate profile management
+- 🏢 Company management
+- 🧠 Skills management
+- 🗄️ PostgreSQL integration
+- 🔗 Prisma ORM
+- 🧪 Vitest testing
+- 🏗️ Modular layered architecture
+- 📊 SonarCloud code analysis
 
----
-
-### 🛍️ Mini My Shop
-
-A responsive shopping website demonstrating modern frontend development concepts.
-
-**Tech:** `HTML` • `CSS` • `JavaScript`
-
----
-
-### 👨‍💻 Developer Portfolio
-
-My personal developer portfolio showcasing my:
-
-* Projects
-* Technical skills
-* Education
-* Experience
-* Certificates
-* Achievements
-
-**Tech:** `HTML` • `CSS` • `JavaScript` • `Bootstrap`
+<br>
 
 ---
 
-## 🏗️ Backend Architecture I'm Working With
+### 🎓 Vision — Learning Management Website
 
-I follow a **Layered Modular Architecture** for backend development:
+A responsive educational website designed to provide a simple and
+user-friendly learning experience.
 
-```text
-src/
-└── modules/
-    └── feature/
-        ├── controllers/
-        ├── services/
-        ├── repositories/
-        ├── schemas/
-        ├── dtos/
-        ├── entities/
-        ├── routes/
-        └── index.ts
-```
+**Tech Stack**
 
-This helps keep applications:
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" height="35"/>
 
-* ✅ Modular
-* ✅ Maintainable
-* ✅ Testable
-* ✅ Scalable
-* ✅ Easy to understand
+<br>
+
+<a href="https://github.com/Vibhav4518/Vision">
+  <img
+    src="https://img.shields.io/badge/View%20Repository-24292F?style=for-the-badge&logo=github&logoColor=white"
+  />
+</a>
+
+<a href="https://vibhav4518.github.io/Vision/">
+  <img
+    src="https://img.shields.io/badge/Live%20Demo-0969DA?style=for-the-badge&logo=githubpages&logoColor=white"
+  />
+</a>
 
 ---
 
-## 📚 Currently Learning
-
-```text
-TypeScript
-Advanced Node.js
-Express.js
-PostgreSQL
-Prisma ORM
-Next.js
-System Design
-Backend Architecture
-Artificial Intelligence
-Machine Learning
-```
-
----
-
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Vibhav4518\&theme=tokyonight)
-
----
+<!-- ========================================================= -->
+<!--                 CONTRIBUTION ACTIVITY                     -->
+<!-- ========================================================= -->
 
 ## 📈 Contribution Graph
 
-![Vibhav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vibhav4518\&theme=tokyo-night)
+<p align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Vibhav4518&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=79c0ff&area_color=1f6feb&area=true&hide_border=true&custom_title=Vibhav%20Srivastava's%20Contribution%20Graph"
+  width="100%"
+  alt="Vibhav Srivastava Contribution Graph"
+/>
+
+</p>
 
 ---
 
-## 🏆 GitHub Profile
+<!-- ========================================================= -->
+<!--                       GITHUB STREAK                       -->
+<!-- ========================================================= -->
 
-Explore my repositories and latest projects:
+## 🔥 GitHub Streak
 
-**GitHub:** https://github.com/Vibhav4518
+<p align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=Vibhav4518&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF"
+  alt="Vibhav GitHub Streak"
+/>
+
+</p>
 
 ---
 
-## 🤝 Let's Connect
+<!-- ========================================================= -->
+<!--                       ACHIEVEMENTS                        -->
+<!-- ========================================================= -->
 
-I'm always interested in learning new technologies, building useful projects, and collaborating with other developers.
+## 🏆 Achievements & Highlights
 
-💼 **GitHub:** https://github.com/Vibhav4518
+🥉 **InnovateX 2025** — Secured 3rd Place
 
-🌐 **Portfolio:** https://vibhav4518.github.io/portfolio/
+🚀 **Triwizardathon 1.0** — Final Round Qualifier
+
+🤖 **AKTU AI Tech Confluence 2025** — Hackathon Participant
+
+🧠 **AI for All** — Intel Technology India / Skill India
+
+⚛️ **Frontend Development Bootcamp** — React JS & Modern Frontend Technologies
 
 ---
 
-### 💡 Developer Philosophy
+<!-- ========================================================= -->
+<!--                   CURRENTLY LEARNING                     -->
+<!-- ========================================================= -->
 
-> *"Keep learning, keep building, and turn ideas into real-world solutions."*
+## 🌱 Currently Learning
 
-⭐ **Thanks for visiting my GitHub profile!**
+<p>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Backend%20Development-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/System%20Design-0969DA?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                     CONNECT WITH ME                       -->
+<!-- ========================================================= -->
+
+## 🌐 Connect With Me
+
+
+
+<p align="center">
+
+<a href="https://vibhav-portfolio04.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
+
+<a href="https://github.com/Vibhav4518">
+  <img
+    src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<a href="mailto:vibhavsrivastav355@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                         FOOTER                            -->
+<!-- ========================================================= -->
+
+<p align="center">
+
+### 💡 Learn • Build • Improve • Repeat
+
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my GitHub profile 👨‍💻</i>
+</p>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and connect with me!
+</p>
